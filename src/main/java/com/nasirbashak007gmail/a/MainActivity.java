@@ -9,7 +9,7 @@ import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
 
-    //private static final android.R.attr R = ;
+    
     int count=0;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
